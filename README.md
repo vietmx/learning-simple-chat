@@ -1,2 +1,4 @@
-# learning-simple-chat
-Source code for Learning
+# simple-chat
+A simple chat application in nodejs and mongodb
+
+@Author: VietMX
